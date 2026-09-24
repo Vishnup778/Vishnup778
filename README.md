@@ -27,7 +27,7 @@
 
 | Project | What it shows |
 |---|---|
-| playwright-e2e-framework *(coming soon)* | Page Object Model, data-driven tests, API tests, CI, reports |
+| [**playwright-e2e-framework**](https://github.com/Vishnup778/playwright-e2e-framework) · [live report](https://vishnup778.github.io/playwright-e2e-framework/) | 79 UI + API tests · Page Object Model · custom fixtures · data-driven · Chromium/Firefox/WebKit · GitHub Actions |
 | appium-mobile-framework *(coming soon)* | Android automation, BrowserStack, CI |
 
 ## 📊 GitHub Stats
